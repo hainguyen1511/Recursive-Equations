@@ -1,4 +1,4 @@
-# Recursive-Equations
+# Recursive Equations
 Generate a recursive formula to solve each of the story problems.
 > [!IMPORTANT]
 >Do not forget your base case(s)and then show your work / thought process after.
